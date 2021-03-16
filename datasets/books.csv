@@ -13,7 +13,7 @@ Cuentos (Segunda Parte);Edgar Allan;Poe;Alianza Editorial;1970;short stories;637
 La vida instrucciones de uso;Georges;Perec;Anagrama;1978;novel;634;red;spanish;FALSE;
 Borges, big data y yo;Walter;Sosa Escudero;Siglo Veintiuno editores;2020;research;171;orange;spanish;TRUE;5
 San Manuel Bueno, mártir;Miguel;de Unamuno;Austral;1931;novel;175;blue;spanish;TRUE;9
-Episodios nacionales (Primera Parte). La Guerra de Independencia;Benito;Prez Galdós;Destino;1873;novel;1457;blue;spanish;FALSE;
+Episodios nacionales (Primera Parte). La Guerra de Independencia;Benito;Pérez Galdós;Destino;1873;novel;1457;blue;spanish;FALSE;
 Ventajas de viajar en tren;Antonio;Orejudo;Tusquets;2011;novel;152;black;spanish;TRUE;7
 La madre Naturaleza;Emilia;Pardo Bazán;Ediciones Cátedra;1887;novel;405;black;spanish;FALSE;
 El jinete polaco;Antonio;Muñoz Molina;Seix Barral;1991;novel;605;red;spanish;FALSE;
@@ -21,10 +21,10 @@ Lectura fácil;Cristina;Morales;Anagrama;2018;novel;420;pink;spanish;TRUE;9
 Los enamoramientos;Javier;Marías;Debolsillo;2011;novel;369;gray;spanish;TRUE;6
 Así empieza lo malo;Javier;Marías;Alfaguara;2014;novel;533;blue;spanish;FALSE;
 Platero y yo;Juan Ramón;Jiménez;Anaya;1914;prose poem;229;white;spanish;TRUE;8
-Paradoja de interventor;Gozalo;Hidalgo Bayal;Tusquets;2006;novel;229;black;spanish;TRUE;7
-Campo de amapolas blancas;Gozalo;Hidalgo Bayal;Tusquets;2008;novel;109;black;spanish;TRUE;9
+Paradoja de interventor;Gonzalo;Hidalgo Bayal;Tusquets;2006;novel;229;black;spanish;TRUE;7
+Campo de amapolas blancas;Gonzalo;Hidalgo Bayal;Tusquets;2008;novel;109;black;spanish;TRUE;9
 Novelas ejemplares I;Miguel;de Cervantes;Ediciones Cátedra;1613;novel;283;black;spanish;FALSE;
-La princesa y la muerte;Gozalo;Hidalgo Bayal;Editora Regional de Extremadura;2001;short stories;142;yellow;spanish;TRUE;7
+La princesa y la muerte;Gonzalo;Hidalgo Bayal;Editora Regional de Extremadura;2001;short stories;142;yellow;spanish;TRUE;7
 El monarca de las sombras;Javier;Cercas;Literatura Random House;2017;novel;281;black;spanish;FALSE;
 Cartas marruecas. Noches Lúgubres;José;de Cadalso;Ediciones Cátedra;1789;epistolary novel;410;black;spanish;FALSE;
 Poeta chileno;Alejandro;Zambra;Anagrama;2020;novel;421;gray;spanish;TRUE;8
@@ -54,7 +54,7 @@ Filosofa política: una breve introducción;David;Miller;Alianza Editorial;2003;
 Sobre la libertad;John Stuart;Mill;Alianza Editorial;1859;philosophy;242;white;spanish;TRUE;8
 Rossahlde;Hermann;Hesse;Picador;1914;nouvelle;153;green;english;FALSE;
 Manual de lucha contra el cambio climático;João ;Camargo;Libros en Acción;2018;handbook;283;green;spanish;TRUE;6
-Client Earth;James;Thronton;Scribe;2017;biography;314;pink;english;TRUE;7
+Client Earth;James;Thornton;Scribe;2017;biography;314;pink;english;TRUE;7
 La semilla en la nieve;Ángel ;Campos Pánpano;Editora Regional de Extremadura;2004;poetry;93;white;spanish;TRUE;7
 Don Juan Tenorio;José;Zorrilla;Ediciones Cátedra;1844;play;220;black;spanish;TRUE;6
 La dama del Alba;Alejandro;Casona;Ediciones Cátedra;1944;play;151;black;spanish;FALSE;
@@ -72,7 +72,7 @@ Moon palace;Paul;Auster;Penguin;1989;novel;307;blue;english;TRUE;7
 El mundo de ayer. Memorias de un europeo;Stefan;Zweig;Acantilado;1941;biography;546;black;spanish;TRUE;9
 Flush;Virginia;Woolf;Penguin;1933;nouvelle;115;black;english;TRUE;7
 Gulliver's travels;Jonathan;Swift;Penguin;1726;prose satire;305;blue;english;FALSE;
-El año de la muerte de Ricardo Reis;Josñe;Saramago;Alfaguara;1998;novel;527;yellow;spanish;FALSE;
+El año de la muerte de Ricardo Reis;José;Saramago;Alfaguara;1998;novel;527;yellow;spanish;FALSE;
 Todo son historias de amor;Dulce María;Cardoso;La umbra y la solana;2014;short stories;222;red;spanish;FALSE;
 Estuario;Lídia;Jorge;La umbra y la solana;2018;novel;253;blue;spanish;FALSE;
 Diario de Ana Frank;Ana;Frank;Publimexi;1947;diary;255;white;spanish;FALSE;
@@ -81,7 +81,7 @@ La carretera;Cormac;McCarthy;Literatura Random House;2006;novel;210;black;spanis
 Moby Dick I;Herman;Melville;El País;1851;novel;364;white;spanish;FALSE;
 Moby Dick II;Herman;Melville;El País;1851;novel;372;white;spanish;FALSE;
 La muerte en Venecia ;Thomas;Mann;Edhasa;1912;nouvelle;123;yellow;spanish;TRUE;7
-Fado alejandrino;Antonio;Lobo Antunes;Debolsillo;1983;novel;648;blue;spanish;FALSE;
+Fado alejandrino;António;Lobo Antunes;Debolsillo;1983;novel;648;blue;spanish;FALSE;
 Diario de una muje adúltera;Curt;Leviant;Seix Barral;2001;novel;679;white;spanish;FALSE;
 La metamorfosis;Franz;Kafka;Alianza Editorial;1915;nouvelle;133;orange;spanish;TRUE;8
 El proceso;Franz;Kafka;Fontana;1925;novel;250;white;spanish;TRUE;8
@@ -93,7 +93,7 @@ El tercer hombre;Graham;Greene;El País;1950;novel;140;black;spanish;FALSE;
 El décimo hombre;Graham;Greene;Seix Barral;1985;novel;153;white;spanish;FALSE;
 El rodaballo;Günter;Grass;Debolsillo;1977;novel;748;white;spanish;TRUE;9
 Suave es la noche;Francis Scott;Fitzgerald;Alfaguara;1934;novel;470;gray;spanish;FALSE;
-Peste & Cólera;Patrick;Devilla;Anagrama;2012;novel;234;yellow;spanish;TRUE;8
+Peste & Cólera;Patrick;Deville;Anagrama;2012;novel;234;yellow;spanish;TRUE;8
 Lord Jim;Joseph;Conrad;Alianza Editorial;1900;novel;587;black;spanish;FALSE;
 El corazón de las tieblas;Joseph;Conrad;Sexto Piso;1899;novel;128;purple;spanish;TRUE;7
 El adversario. Una novela rusa. De vidas ajenas;Emmanuel;Carrère;Anagrama;2017;novel;570;orange;spanish;TRUE;6
